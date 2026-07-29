@@ -18,39 +18,27 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm <span style="color:#00F5FF;">Bindu Singh M</span></h1>
+<h1 align="center">👋 Hello, I'm Bindu Singh M</h1>
 
 <h3 align="center">
-🚀 AI & Machine Learning Enthusiast • Python Backend Developer • Building Intelligent Applications
+🤖 AI & Machine Learning Student • 🚀 Generative AI Enthusiast • 🐍 Python Backend Developer
 </h3>
 
----
-
-## 💻 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=🤖+Generative+AI+Engineer;⚡+Machine+Learning+Developer;🐍+Python+%7C+Flask+Backend;🧠+Building+Intelligent+Applications;🚀+Welcome+to+my+GitHub+Profile"/>
-
-</div>
+<p align="center">
+<i>Building intelligent applications with AI, Machine Learning, and Flask.</i>
+</p>
 
 <br>
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   🤖 AI INITIALIZED                          │
-│                                              │
-│   ✔ Python Environment Loaded                │
-│   ✔ Flask Backend Ready                      │
-│   ✔ Machine Learning Modules Loaded          │
-│   ✔ LLM Engine Activated                     │
-│                                              │
-│   🚀 STATUS : READY TO BUILD                 │
-│                                              │
-╰──────────────────────────────────────────────╯
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Building+AI+Solutions.;Learning+Every+Day.;Open+Source+Enthusiast.;Let's+Build+Something+Awesome!"/>
+
+</div>
+
+---
+
+## 🚀 Developer Profile
 
 ## 🚀 Developer Profile
 
