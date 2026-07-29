@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Dynamic Waving Gradient Header -->
+  <!-- Dynamic Waving Animated Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Bindu%20Singh%20M&fontSize=52&fontColor=ffffff&animation=twinkle" width="100%" />
 
   <br />
 
-  <!-- Neon Animated Typing Headline -->
+  <!-- Cyber Neon Animated Typing Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vcenter=true&width=650&lines=%E2%9A%A1+Generative+AI+%26+ML+Engineer;%F0%9F%94%A5+Python+%26+Flask+Backend+Developer;%F0%9F%A7%A0+Architecting+Smart+AI-Powered+Web+Apps;%F0%9F%8D%B5+Turning+Coffee+Into+Clean%2C+Scalable+Code" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Social Media & Profile Badges -->
+  <!-- Social Media & Quick Contact Badges -->
   <a href="https://www.linkedin.com/in/bindu-singh-8224a2308/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -31,13 +31,12 @@
 
 ---
 
-### 🌌 <font color="#00F5FF">System Developer Profile</font>
+### 🌌 <font color="#00F5FF">Developer System Matrix</font>
 
 ```yaml
 Name: Bindu Singh M
-University: Reva University 🎓
+Institution: Reva University 🎓
 Specialization: AI / ML & Generative AI 🤖
-Core Languages: Python, JavaScript, HTML5/CSS3
-Backend Framework: Flask 🌶️
-Primary Interests: Smart Chatbots, Prompt Engineering, MLOps, Web Development
-Status: ⚡ Actively building AI-driven web platforms!
+Core Stack: Python, Flask, HTML5/CSS3
+Primary Focus: Smart Chatbots, LLM Workflows, MLOps, Custom APIs
+Status: ⚡ Actively shipping AI-integrated web applications!
