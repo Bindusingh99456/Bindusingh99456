@@ -221,33 +221,6 @@ Career Goal :
 </div>
 
 ---
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bindusingh99456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Bindusingh99456&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindusingh99456&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bindusingh99456&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
 
 ---
 
