@@ -4,17 +4,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🤖+Generative+AI+Engineer;⚡+Machine+Learning+Developer;🐍+Python+%7C+Flask+Backend+Developer;🚀+Building+AI-Powered+Applications;🧠+LLMs+%7C+AI+Agents+%7C+MLOps;☕+Turning+Coffee+Into+Clean+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🤖+Generative+AI+Engineer;⚡+Machine+Learning+Developer;🐍+Python+%7C+Flask+Backend+Developer;🚀+Building+AI-Powered+Applications;🧠+LLMs+%7C+AI+Agents+%7C+MLOps"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Bindusingh99456&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=Bindusingh99456&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/>
 
-<img src="https://img.shields.io/github/followers/Bindusingh99456?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/Bindusingh99456?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/Bindusingh99456?style=for-the-badge&logo=github&color=FFD700"/>
+<img src="https://img.shields.io/github/stars/Bindusingh99456?style=for-the-badge&logo=github"/>
 
 </div>
+
+---
 
 ---
 
@@ -38,7 +40,7 @@
 
 ---
 
-## 🚀 Developer Profile
+
 
 ## 🚀 Developer Profile
 
