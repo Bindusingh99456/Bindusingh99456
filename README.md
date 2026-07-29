@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Waving Animated Gradient Banner -->
+  <!-- Dynamic Waving Animated Gradient Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Bindu%20Singh%20M&fontSize=52&fontColor=ffffff&animation=twinkle" width="100%" />
 
   <br />
@@ -31,7 +31,10 @@
 
 ---
 
-### 🌌 <font color="#00F5FF">Developer System Matrix</font>
+<!-- SECTION 1: Developer Matrix Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=%F0%9F%8C%8C%20Developer%20System%20Matrix&fontSize=24&fontColor=00F5FF" width="100%" />
+</div>
 
 ```yaml
 Name: Bindu Singh M
