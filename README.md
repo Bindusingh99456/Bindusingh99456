@@ -28,55 +28,29 @@
 
 ## 💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<div align="center">
 
-```python
-class BinduSingh:
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=🤖+Generative+AI+Engineer;⚡+Machine+Learning+Developer;🐍+Python+%7C+Flask+Backend;🧠+Building+Intelligent+Applications;🚀+Welcome+to+my+GitHub+Profile"/>
 
-    def __init__(self):
-        self.name = "Bindu Singh M"
-        self.university = "REVA University"
+</div>
 
-        self.specialization = (
-            "Artificial Intelligence & Machine Learning"
-        )
+<br>
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "C++",
-            "JavaScript"
-        ]
+<div align="center">
 
-        self.backend = [
-            "Flask",
-            "REST APIs"
-        ]
-
-        self.database = [
-            "MongoDB",
-            "MySQL"
-        ]
-
-        self.learning = [
-            "Generative AI",
-            "Large Language Models",
-            "AI Agents",
-            "LangChain",
-            "RAG",
-            "MLOps"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
-
-
-me = BinduSingh()
-me.say_hi()
-```
-
----
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   🤖 AI INITIALIZED                          │
+│                                              │
+│   ✔ Python Environment Loaded                │
+│   ✔ Flask Backend Ready                      │
+│   ✔ Machine Learning Modules Loaded          │
+│   ✔ LLM Engine Activated                     │
+│                                              │
+│   🚀 STATUS : READY TO BUILD                 │
+│                                              │
+╰──────────────────────────────────────────────╯
 
 ## 🚀 Developer Profile
 
